@@ -1,0 +1,10 @@
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\obj\Debug\AoE_DataMonitor.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\obj\Debug\AoE_DataMonitor.Form1.resources
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\obj\Debug\AoE_DataMonitor.Properties.Resources.resources
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\obj\Debug\AoE_DataMonitor.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\obj\Debug\AoE_DataMonitor.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\bin\Debug\AoE_DataMonitor.exe.config
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\bin\Debug\AoE_DataMonitor.exe
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\bin\Debug\AoE_DataMonitor.pdb
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\obj\Debug\AoE_DataMonitor.exe
+C:\Users\mehme\source\repos\AoE_DataMonitor\AoE_DataMonitor\obj\Debug\AoE_DataMonitor.pdb
