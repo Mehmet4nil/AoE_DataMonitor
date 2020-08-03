@@ -3,7 +3,8 @@ Visual display of a sample game data.
 
 # Installing and Requirements
 
-Microsoft .NET Framework 4.7.2 yüklü olmalıdır
+Microsoft .NET Framework 4.7.2 yüklü olmalıdır.
+
 1- Clone this repository
 git clone https://github.com/Mehmet4nil/AoE_DataMonitor.git
 
