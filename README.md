@@ -7,7 +7,7 @@ Microsoft .NET Framework 4.7.2 yüklü olmalıdır.
 
 1- Clone this repository
 
->git clone https://github.com/Mehmet4nil/AoE_DataMonitor.git
+'''git clone https://github.com/Mehmet4nil/AoE_DataMonitor.git'''
 
 2- Install the project dependencies
 Visual Studio, VS Code..
