@@ -10,6 +10,7 @@ Microsoft .NET Framework 4.7.2 yüklü olmalıdır.
 ```git clone https://github.com/Mehmet4nil/AoE_DataMonitor.git```
 
 >2- Install the project dependencies
+
 Visual Studio, VS Code..
 
 Uygulamayı çalıştırmak için .zip yada git clone kullanarak proje dosyalarını indiriniz. "AoE_DataMonitor\AoE_DataMonitor\bin\Debug" klasör yoluna gidiniz. Çalıştırma dosyası burda bulunur, verilen url den indirilecek olan örnek veri dosyası da bu klasörde indirilip kaydedilecektir. Uygulamayı "AoE_DataMonitor.exe" dosyası ile çalıştırınız.  Proje kodlarına erişmek için "AoE_DataMonitor\" klasöründe bulunan "AoE_DataMonitor.sln" dosyasını Visual Studio yada muadil IDE ler ile çalıştırabilirsiniz. Kodlara herhangi bir text editörü ile ulaşmak istiyorsanız "AoE_DataMonitor\AoE_DataMonitor" klasöründe bulunan dosyalar ile ulaşabilirsiniz.
