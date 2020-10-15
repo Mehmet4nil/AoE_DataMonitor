@@ -1,5 +1,7 @@
+Bu uygulama iş başvurusu sürecinde firma isteği üzerine örnek olması için geliştirilmiştir.
+
 # AoE_DataMonitor
-Visual display of a sample game data.
+Visual display of Age of Empires game data.
 
 # Installing and Requirements
 
